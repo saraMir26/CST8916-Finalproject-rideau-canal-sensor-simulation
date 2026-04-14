@@ -1,1 +1,28 @@
-{}
+{
+  "locations": [
+    {
+      "deviceId": "dowslake-sensor",
+      "location": "Dow's Lake",
+      "iceThicknessRange": [26, 36],
+      "surfaceTemperatureRange": [-8, 1],
+      "snowAccumulationRange": [0, 8],
+      "externalTemperatureRange": [-15, 2]
+    },
+    {
+      "deviceId": "fifthavenue-sensor",
+      "location": "Fifth Avenue",
+      "iceThicknessRange": [24, 34],
+      "surfaceTemperatureRange": [-7, 2],
+      "snowAccumulationRange": [0, 10],
+      "externalTemperatureRange": [-14, 3]
+    },
+    {
+      "deviceId": "nac-sensor",
+      "location": "NAC",
+      "iceThicknessRange": [22, 32],
+      "surfaceTemperatureRange": [-6, 3],
+      "snowAccumulationRange": [0, 12],
+      "externalTemperatureRange": [-13, 4]
+    }
+  ]
+}
