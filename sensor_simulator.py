@@ -1,3 +1,14 @@
+"""
+AI Usage Disclosure
+
+This code was developed with the assistance of AI tools (ChatGPT) for:
+- Generating initial code structure
+- Debugging issues
+- Understanding Azure IoT integration
+
+All code has been reviewed, modified, and tested.
+"""
+
 import json
 import os
 import random
